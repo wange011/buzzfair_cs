@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buzzfair_cs/static/css/main.96eef6e9.chunk.css",
+    "main.js": "/buzzfair_cs/static/js/main.ab927af6.chunk.js",
+    "main.js.map": "/buzzfair_cs/static/js/main.ab927af6.chunk.js.map",
+    "runtime~main.js": "/buzzfair_cs/static/js/runtime~main.d091f292.js",
+    "runtime~main.js.map": "/buzzfair_cs/static/js/runtime~main.d091f292.js.map",
+    "static/js/2.0007278a.chunk.js": "/buzzfair_cs/static/js/2.0007278a.chunk.js",
+    "static/js/2.0007278a.chunk.js.map": "/buzzfair_cs/static/js/2.0007278a.chunk.js.map",
+    "index.html": "/buzzfair_cs/index.html",
+    "precache-manifest.2061707e02d6f7cb7e9bc5db329f8045.js": "/buzzfair_cs/precache-manifest.2061707e02d6f7cb7e9bc5db329f8045.js",
+    "service-worker.js": "/buzzfair_cs/service-worker.js",
+    "static/css/main.96eef6e9.chunk.css.map": "/buzzfair_cs/static/css/main.96eef6e9.chunk.css.map"
+  }
+}
