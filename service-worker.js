@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/buzzfair_cs/precache-manifest.2061707e02d6f7cb7e9bc5db329f8045.js"
+  "/buzzfair_cs/precache-manifest.369b6c0d7ac70be24b4f883f798d988f.js"
 );
 
 self.addEventListener('message', (event) => {
